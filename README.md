@@ -1,9 +1,3 @@
-# MediTranscribe - AI-Based Medical Transcription and Translation System
-
-MediTranscribe is an AI-driven backend service designed to **transcribe audio conversations** (e.g., doctor-patient interactions) and **translate** them into different languages. It leverages **OpenAI's Whisper** model for transcription and **Google Translate API** for multilingual support.
-
----
-
 ##  Features
 -  **Real-time Transcription** – Converts spoken audio into accurate text using Whisper.
 - **Text Translation** – Translates the transcribed text into target languages.
