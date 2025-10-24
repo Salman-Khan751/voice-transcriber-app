@@ -14,11 +14,3 @@
 - **Linting:** ESLint (configured for React)
 - **Environment Management:** Git & .gitignore
 
----
-
-##  Installation and Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/MediTranscribe.git
-cd MediTranscribe
